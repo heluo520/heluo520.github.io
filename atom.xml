@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://heluo520.github.io/</id>
+    <title>贤狼赫萝</title>
+    <updated>2024-04-01T05:00:54.866Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>贤狼赫萝</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://heluo520.github.io/"/>
+    <link rel="self" href="https://heluo520.github.io/atom.xml"/>
+    <subtitle>一只贤狼</subtitle>
+    <logo>https://heluo520.github.io/kt2.jpg</logo>
+    <icon>https://heluo520.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © 贤狼赫萝</rights>
+    <entry>
+        <title type="html"><![CDATA[Spring中的AOP]]></title>
+        <id>https://heluo520.github.io/posts/ssm/index</id>
+        <link href="https://heluo520.github.io/posts/ssm/index"/>
+        <updated>2024-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>使用前提：Spring的AOP是基于JDK动态代理和CGlib代理实现的，所以目标对象必须要有父类或实现了接口才能被代理。</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-04-01T05:00:13.014Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在Spring项目中使用Junit4?]]></title>
+        <id>https://heluo520.github.io/posts/ssm/spring-junit</id>
+        <link href="https://heluo520.github.io/posts/ssm/spring-junit"/>
+        <updated>2024-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>spring其实已经帮我们提供了整合Junit4的依赖，我们只需要导入Junit4的依赖就行。</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-04-01T05:00:13.014Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://heluo520.github.io/posts/ssm/test</id>
+        <link href="https://heluo520.github.io/posts/ssm/test"/>
+        <updated>2024-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>大标题</h1>
+<p>内容....<br>
+<img src="./img/jk.jpg" alt="漂亮的小姐姐"></p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-04-01T05:00:13.014Z</published>
+    </entry>
+</feed>
