@@ -4,7 +4,7 @@
         <title>贤狼赫萝</title>
         <link>https://heluo520.github.io/</link>
         <description>一只贤狼</description>
-        <lastBuildDate>Mon, 01 Apr 2024 05:00:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 05:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -18,7 +18,7 @@
             <title><![CDATA[Spring中的AOP]]></title>
             <link>https://heluo520.github.io/posts/ssm/index</link>
             <guid>https://heluo520.github.io/posts/ssm/index</guid>
-            <pubDate>Mon, 01 Apr 2024 05:00:13 GMT</pubDate>
+            <pubDate>Mon, 01 Apr 2024 05:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<blockquote>
 <p>使用前提：Spring的AOP是基于JDK动态代理和CGlib代理实现的，所以目标对象必须要有父类或实现了接口才能被代理。</p>
 </blockquote>
@@ -29,7 +29,7 @@
             <title><![CDATA[如何在Spring项目中使用Junit4?]]></title>
             <link>https://heluo520.github.io/posts/ssm/spring-junit</link>
             <guid>https://heluo520.github.io/posts/ssm/spring-junit</guid>
-            <pubDate>Mon, 01 Apr 2024 05:00:13 GMT</pubDate>
+            <pubDate>Mon, 01 Apr 2024 05:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<p>spring其实已经帮我们提供了整合Junit4的依赖，我们只需要导入Junit4的依赖就行。</p>
 ]]></content:encoded>
             <author>i@valaxy.site (贤狼赫萝)</author>
@@ -38,8 +38,8 @@
             <title><![CDATA[测试]]></title>
             <link>https://heluo520.github.io/posts/ssm/test</link>
             <guid>https://heluo520.github.io/posts/ssm/test</guid>
-            <pubDate>Mon, 01 Apr 2024 05:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>大标题</h1>
+            <pubDate>Mon, 01 Apr 2024 05:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>没毛病兄弟们</h1>
 <p>内容....<br>
 <img src="./img/jk.jpg" alt="漂亮的小姐姐"></p>
 ]]></content:encoded>
