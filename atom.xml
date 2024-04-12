@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heluo520.github.io/</id>
     <title>贤狼赫萝</title>
-    <updated>2024-04-11T11:05:54.687Z</updated>
+    <updated>2024-04-12T09:26:10.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>贤狼赫萝</name>
@@ -27,7 +27,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-11T11:04:22.003Z</published>
+        <published>2024-04-12T09:24:47.769Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpringBoot中通过第三方Swagger-UI来使用Swagger]]></title>
@@ -44,7 +44,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-11T11:04:22.003Z</published>
+        <published>2024-04-12T09:24:47.769Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpringBoot中的Interceptor(拦截器)与Filter(过滤器)]]></title>
@@ -74,7 +74,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-11T11:04:22.003Z</published>
+        <published>2024-04-12T09:24:47.769Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Spring中的AOP]]></title>
@@ -90,7 +90,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-11T11:04:22.003Z</published>
+        <published>2024-04-12T09:24:47.769Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[如何在Spring项目中使用Junit4?]]></title>
@@ -104,7 +104,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-11T11:04:22.003Z</published>
+        <published>2024-04-12T09:24:47.769Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
@@ -120,7 +120,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-11T11:04:22.003Z</published>
+        <published>2024-04-12T09:24:47.769Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpringBoot中的注解]]></title>
@@ -144,7 +144,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-11T11:04:21.999Z</published>
+        <published>2024-04-12T09:24:47.765Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[web项目中的文件上传与下载]]></title>
@@ -163,7 +163,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-11T11:04:21.999Z</published>
+        <published>2024-04-12T09:24:47.765Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[在linux下安装配置wordpress]]></title>
@@ -180,7 +180,21 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-11T11:04:21.995Z</published>
+        <published>2024-04-12T09:24:47.761Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[springboot在一个子模块B中引用另一个子模块C后编译B出错]]></title>
+        <id>https://heluo520.github.io/posts/debug/bulid-bug</id>
+        <link href="https://heluo520.github.io/posts/debug/bulid-bug"/>
+        <updated>2024-04-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>debug记录</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-04-12T09:24:47.741Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[碎片小知识]]></title>
@@ -192,6 +206,6 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-11T11:04:21.983Z</published>
+        <published>2024-04-12T09:24:47.741Z</published>
     </entry>
 </feed>
