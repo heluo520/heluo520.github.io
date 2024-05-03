@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heluo520.github.io/</id>
     <title>贤狼赫萝</title>
-    <updated>2024-04-18T14:34:30.597Z</updated>
+    <updated>2024-05-03T09:37:04.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>贤狼赫萝</name>
@@ -16,6 +16,49 @@
     <icon>https://heluo520.github.io/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © 贤狼赫萝</rights>
     <entry>
+        <title type="html"><![CDATA[SpringBoot中的注解]]></title>
+        <id>https://heluo520.github.io/posts/springboot/annotation</id>
+        <link href="https://heluo520.github.io/posts/springboot/annotation"/>
+        <updated>2024-04-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>注解@ConfigurationProperties</h2>
+<ul>
+<li>
+<p>简介：可用于读取yml文件中定义的元数据并生成属性对象，一般用于生成配置对象。</p>
+</li>
+<li>
+<p>用法：</p>
+<p>配置对象</p>
+<pre><code class="language-java">@</code></pre>
+</li>
+</ul>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-05-03T09:35:07.197Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[web项目中的文件上传与下载]]></title>
+        <id>https://heluo520.github.io/posts/springboot/fileutils</id>
+        <link href="https://heluo520.github.io/posts/springboot/fileutils"/>
+        <updated>2024-04-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>设置上传文件最大大小设置</h2>
+<pre><code class="language-yml"># application.yml
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10M</code></pre>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-05-03T09:35:07.197Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[jwt的使用]]></title>
         <id>https://heluo520.github.io/posts/springboot/jwt</id>
         <link href="https://heluo520.github.io/posts/springboot/jwt"/>
@@ -27,7 +70,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-18T14:32:56.368Z</published>
+        <published>2024-05-03T09:35:07.197Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[springboot源码学习]]></title>
@@ -41,7 +84,21 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-18T14:32:56.368Z</published>
+        <published>2024-05-03T09:35:07.197Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[springboot+mybatis中resultMap与驼峰命名]]></title>
+        <id>https://heluo520.github.io/posts/springboot/springboot-mybatis</id>
+        <link href="https://heluo520.github.io/posts/springboot/springboot-mybatis"/>
+        <updated>2024-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>当数据库中表的字段名与我们java实体中的属性名不同时我们就需要手动指定映射关系，或进行一些配置。</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-05-03T09:35:07.197Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpringBoot中通过第三方Swagger-UI来使用Swagger]]></title>
@@ -58,7 +115,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-18T14:32:56.368Z</published>
+        <published>2024-05-03T09:35:07.197Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpringBoot中的Interceptor(拦截器)与Filter(过滤器)]]></title>
@@ -88,7 +145,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-18T14:32:56.368Z</published>
+        <published>2024-05-03T09:35:07.197Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Spring中的AOP]]></title>
@@ -104,7 +161,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-18T14:32:56.368Z</published>
+        <published>2024-05-03T09:35:07.197Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[如何在Spring项目中使用Junit4?]]></title>
@@ -118,7 +175,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-18T14:32:56.368Z</published>
+        <published>2024-05-03T09:35:07.197Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
@@ -134,50 +191,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-18T14:32:56.368Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpringBoot中的注解]]></title>
-        <id>https://heluo520.github.io/posts/springboot/annotation</id>
-        <link href="https://heluo520.github.io/posts/springboot/annotation"/>
-        <updated>2024-04-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>注解@ConfigurationProperties</h2>
-<ul>
-<li>
-<p>简介：可用于读取yml文件中定义的元数据并生成属性对象，一般用于生成配置对象。</p>
-</li>
-<li>
-<p>用法：</p>
-<p>配置对象</p>
-<pre><code class="language-java">@</code></pre>
-</li>
-</ul>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-04-18T14:32:56.364Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[web项目中的文件上传与下载]]></title>
-        <id>https://heluo520.github.io/posts/springboot/fileutils</id>
-        <link href="https://heluo520.github.io/posts/springboot/fileutils"/>
-        <updated>2024-04-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>设置上传文件最大大小设置</h2>
-<pre><code class="language-yml"># application.yml
-spring:
-  servlet:
-    multipart:
-      max-file-size: 10M</code></pre>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-04-18T14:32:56.364Z</published>
+        <published>2024-05-03T09:35:07.197Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[在linux下安装配置wordpress]]></title>
@@ -194,7 +208,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-18T14:32:56.360Z</published>
+        <published>2024-05-03T09:35:07.189Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[springboot在一个子模块B中引用另一个子模块C后编译B出错]]></title>
@@ -208,7 +222,21 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-18T14:32:56.348Z</published>
+        <published>2024-05-03T09:35:07.177Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用@Slf4j打印对象出现java.lang.StackOverflowError]]></title>
+        <id>https://heluo520.github.io/posts/debug/slfj</id>
+        <link href="https://heluo520.github.io/posts/debug/slfj"/>
+        <updated>2024-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>使用@Slf4j打印对象时出现<code>java.lang.ClassNotFoundException: org.springframework.core.log.LogDelegateFactory</code>异常</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-05-03T09:35:07.177Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[springboot整合mybatis与mybatis-plus]]></title>
@@ -222,6 +250,6 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-04-18T14:32:56.348Z</published>
+        <published>2024-05-03T09:35:07.177Z</published>
     </entry>
 </feed>
