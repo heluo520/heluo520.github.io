@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://heluo520.github.io/sitemap.xml
