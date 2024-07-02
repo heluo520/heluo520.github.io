@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heluo520.github.io/</id>
     <title>贤狼赫萝</title>
-    <updated>2024-06-11T02:17:49.396Z</updated>
+    <updated>2024-07-02T05:41:34.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>贤狼赫萝</name>
@@ -37,7 +37,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[web项目中的文件上传与下载]]></title>
@@ -56,7 +56,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jwt的使用]]></title>
@@ -70,7 +70,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[springboot源码学习]]></title>
@@ -84,7 +84,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[springboot+mybatis中resultMap与驼峰命名]]></title>
@@ -98,7 +98,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpringBoot中通过第三方Swagger-UI来使用Swagger]]></title>
@@ -115,7 +115,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpringBoot中的Interceptor(拦截器)与Filter(过滤器)]]></title>
@@ -145,7 +145,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[RocketMQ]]></title>
@@ -160,7 +160,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpringCloud Alibab篇]]></title>
@@ -177,7 +177,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpringCloud Eureka篇]]></title>
@@ -208,7 +208,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Spring中的AOP]]></title>
@@ -224,7 +224,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[如何在Spring项目中使用Junit4?]]></title>
@@ -238,7 +238,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
@@ -254,12 +254,36 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.309Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git命令]]></title>
+        <id>https://heluo520.github.io/posts/tools/git</id>
+        <link href="https://heluo520.github.io/posts/tools/git"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<!--more-->
+<h2>Git命令(常用)</h2>
+<ul>
+<li>
+<p>git init</p>
+<p>初始化git仓库</p>
+</li>
+<li>
+<p>git remote add origin <a href="mailto:git@github.com">git@github.com</a>:xxx/xxx.g</p>
+</li>
+</ul>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-02T05:38:39.961Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[IDEA快捷键]]></title>
-        <id>https://heluo520.github.io/posts/notes/idea</id>
-        <link href="https://heluo520.github.io/posts/notes/idea"/>
+        <id>https://heluo520.github.io/posts/tools/idea</id>
+        <link href="https://heluo520.github.io/posts/tools/idea"/>
         <updated>2024-05-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<h2>快捷键</h2>
 <table>
@@ -286,7 +310,82 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.305Z</published>
+        <published>2024-07-02T05:38:39.961Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maven使用]]></title>
+        <id>https://heluo520.github.io/posts/tools/maven</id>
+        <link href="https://heluo520.github.io/posts/tools/maven"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2><code>&lt;optional&gt;</code>标签</h2>
+<p>情景：</p>
+<pre><code class="language-xml">&lt;dependency&gt;
+    &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;
+    &lt;arti</code></pre>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-02T05:38:39.961Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[windows快捷键]]></title>
+        <id>https://heluo520.github.io/posts/tools/windows</id>
+        <link href="https://heluo520.github.io/posts/tools/windows"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>快捷键</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">快捷键</th>
+<th style="text-align:center">功能</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">ctrl+win+d</td>
+<td style="text-align:center">创建新的window桌面</td>
+</tr>
+<tr>
+<td style="text-align:center">ctrl+win+左右键</td>
+<td style="text-align:center">切换win桌面</td>
+</tr>
+<tr>
+<td style="text-align:center">ct</td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-02T05:38:39.961Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[设计模式]]></title>
+        <id>https://heluo520.github.io/posts/notes/design-pattern</id>
+        <link href="https://heluo520.github.io/posts/notes/design-pattern"/>
+        <updated>2024-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li></li>
+</ul>
+<h2>什么是设计模式？</h2>
+<p>设计模式是软件设计中常见问题的典型解决方案。(感觉都是为了使得设计的程序可扩展性好，不易出错，灵活高效)</p>
+<h1>根据意图/目的来分类</h1>
+<h2>创建型模式</h2>
+<p>提供创建对象的机制</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-02T05:38:39.957Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[linux指令学习]]></title>
@@ -316,7 +415,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.301Z</published>
+        <published>2024-07-02T05:38:39.953Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[在linux下安装配置wordpress]]></title>
@@ -333,7 +432,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.301Z</published>
+        <published>2024-07-02T05:38:39.953Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[常用算法]]></title>
@@ -358,7 +457,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.301Z</published>
+        <published>2024-07-02T05:38:39.953Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[C++]]></title>
@@ -382,42 +481,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.301Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[设计模式]]></title>
-        <id>https://heluo520.github.io/posts/notes/design-pattern</id>
-        <link href="https://heluo520.github.io/posts/notes/design-pattern"/>
-        <updated>2024-05-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li></li>
-</ul>
-<h2>什么是设计模式？</h2>
-<p>设计模式是软件设计中常见问题的典型解决方案。(感觉都是为了使得设计的程序可扩展性好，不易出错，灵活高效)</p>
-<h1>根据意图/目的来分类</h1>
-<h2>创建型模式</h2>
-<p>提供创建对象的机制</p>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-06-11T02:16:29.301Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker容器间的相互访问]]></title>
-        <id>https://heluo520.github.io/posts/docker/docker容器传输</id>
-        <link href="https://heluo520.github.io/posts/docker/docker容器传输"/>
-        <updated>2024-06-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>在使用Docker部署多个项目的时候，我们可能会想要只对外暴露一个端口来访问我们服务器上的服务，那么我们就可以使用Nginx服务器来进行反向代理，而容器之间通过配置是可以进行相互访问通信的(不需要给</p>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-06-11T02:16:29.289Z</published>
+        <published>2024-07-02T05:38:39.953Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[springboot整合mybatis与mybatis-plus]]></title>
@@ -431,7 +495,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.289Z</published>
+        <published>2024-07-02T05:38:39.941Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL学习笔记]]></title>
@@ -449,7 +513,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.285Z</published>
+        <published>2024-07-02T05:38:39.937Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Redis学习笔记]]></title>
@@ -464,7 +528,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.285Z</published>
+        <published>2024-07-02T05:38:39.937Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[springboot在一个子模块B中引用另一个子模块C后编译B出错]]></title>
@@ -478,7 +542,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.285Z</published>
+        <published>2024-07-02T05:38:39.937Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用@Slf4j打印对象出现java.lang.StackOverflowError]]></title>
@@ -492,7 +556,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.285Z</published>
+        <published>2024-07-02T05:38:39.937Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[DNS]]></title>
@@ -509,7 +573,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.285Z</published>
+        <published>2024-07-02T05:38:39.937Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Docker学习记录]]></title>
@@ -523,6 +587,20 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-11T02:16:29.285Z</published>
+        <published>2024-07-02T05:38:39.937Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker容器间的相互访问]]></title>
+        <id>https://heluo520.github.io/posts/docker/docker容器传输</id>
+        <link href="https://heluo520.github.io/posts/docker/docker容器传输"/>
+        <updated>2024-06-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>在使用Docker部署多个项目的时候，我们可能会想要只对外暴露一个端口来访问我们服务器上的服务，那么我们就可以使用Nginx服务器来进行反向代理，而容器之间通过配置是可以进行相互访问通信的(不需要给</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-02T05:38:39.937Z</published>
     </entry>
 </feed>
