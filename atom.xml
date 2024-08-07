@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heluo520.github.io/</id>
     <title>贤狼赫萝</title>
-    <updated>2024-08-07T05:52:58.645Z</updated>
+    <updated>2024-08-07T11:02:46.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>贤狼赫萝</name>
@@ -15,6 +15,208 @@
     <logo>https://heluo520.github.io/kt2.jpg</logo>
     <icon>https://heluo520.github.io/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © 贤狼赫萝</rights>
+    <entry>
+        <title type="html"><![CDATA[jwt的使用]]></title>
+        <id>https://heluo520.github.io/posts/springboot/jwt</id>
+        <link href="https://heluo520.github.io/posts/springboot/jwt"/>
+        <updated>2024-04-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>JWT（JSON Web Token）是一种开放标准（RFC 7519），它定义了一种紧凑且自包含的方式，用于在各方之间安全地传输信息作为 JSON 对象。JWT 可以通过数字签名进行验证，这样就可以确保在传输过程中的数据不被篡改。</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.498Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[springboot源码学习]]></title>
+        <id>https://heluo520.github.io/posts/springboot/source-code</id>
+        <link href="https://heluo520.github.io/posts/springboot/source-code"/>
+        <updated>2024-04-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>笔记</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.498Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[springboot+mybatis中resultMap与驼峰命名]]></title>
+        <id>https://heluo520.github.io/posts/springboot/springboot-mybatis</id>
+        <link href="https://heluo520.github.io/posts/springboot/springboot-mybatis"/>
+        <updated>2024-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>当数据库中表的字段名与我们java实体中的属性名不同时我们就需要手动指定映射关系，或进行一些配置。</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.498Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpringBoot中通过第三方Swagger-UI来使用Swagger]]></title>
+        <id>https://heluo520.github.io/posts/springboot/swagger</id>
+        <link href="https://heluo520.github.io/posts/springboot/swagger"/>
+        <updated>2024-04-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>前言：在前后端分离开发的过程中，前端和后端需要进行api对接进行交互，就需要一个api规范文档，方便前后端的交互，但api文档不能根据代码的变化发生实时动态的改变，这样后端修改了接口，前端不能及时获取最新的接口，导致调用出错，需要手动维护api文档，加大了开发的工作量和困难，而swagger的出现就是为了解决这一系列的问题。</p>
+</blockquote>
+<p>简单来说的话就是一个基于openAPI构建的可用于动态生成后端接口文档的工具集</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.498Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpringBoot中的Interceptor(拦截器)与Filter(过滤器)]]></title>
+        <id>https://heluo520.github.io/posts/springboot/拦截器与过滤器</id>
+        <link href="https://heluo520.github.io/posts/springboot/拦截器与过滤器"/>
+        <updated>2024-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>二者对比(其实作用都差不多)</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+<th style="text-align:center"><strong>Interceptor</strong></th>
+<th style="text-align:center"><strong>Filter</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><strong>技术范畴</strong></td>
+<td style="text-align:center">Sprin</td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.498Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EnableAsync与Async注解实现共享线程池]]></title>
+        <id>https://heluo520.github.io/posts/springboot/线程池</id>
+        <link href="https://heluo520.github.io/posts/springboot/线程池"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>SpringBoot中使用@EnableAsync与@Async实现共享线程池</h2>
+<ul>
+<li>首先需要定义一个配置类对<code>ThreadPoolTaskExecutor</code>对象进行配置，并交给容器</li>
+</ul>
+<blockquote>
+<p>`</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.498Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RocketMQ]]></title>
+        <id>https://heluo520.github.io/posts/springcloud/rocketmq</id>
+        <link href="https://heluo520.github.io/posts/springcloud/rocketmq"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>简介</h2>
+<p>RocketMQ为Alibaba开发的消息队列。优点：实现应用解耦、异步提速(响应速度)、削峰填谷(囤积消息慢慢处理)。缺点：可用性降低(如何保证中间件的可靠)、复杂性提高(耦合了中间件</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.498Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpringCloud Alibab篇]]></title>
+        <id>https://heluo520.github.io/posts/springcloud/springcloud-alibab</id>
+        <link href="https://heluo520.github.io/posts/springcloud/springcloud-alibab"/>
+        <updated>2024-05-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>CAP概念</h2>
+<p>C: 一致性 、A：可用性 、P：分区容错性</p>
+<h2>Nacos与启动</h2>
+<p>Nacos：Eureka + Config + Bus 包含了注册中心、配置中心、动态刷新配置的功能，即是一个</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.498Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpringCloud Eureka篇]]></title>
+        <id>https://heluo520.github.io/posts/springcloud/springcloud-eureka</id>
+        <link href="https://heluo520.github.io/posts/springcloud/springcloud-eureka"/>
+        <updated>2024-05-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>架构</h2>
+<ul>
+<li>单体架构</li>
+<li>垂直架构</li>
+<li>分布式架构</li>
+<li>SOA架构</li>
+<li>微服务架构</li>
+</ul>
+<h2>注册中心</h2>
+<p>用于服务注册与服务发现。</p>
+<ul>
+<li>实现：
+<ol>
+<li>Eureka (Netflix)<br>
+2</li>
+</ol>
+</li>
+</ul>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.498Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring中的AOP]]></title>
+        <id>https://heluo520.github.io/posts/ssm/index</id>
+        <link href="https://heluo520.github.io/posts/ssm/index"/>
+        <updated>2024-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>使用前提：Spring的AOP是基于JDK动态代理和CGlib代理实现的，所以目标对象必须要有父类或实现了接口才能被代理。</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.498Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在Spring项目中使用Junit4?]]></title>
+        <id>https://heluo520.github.io/posts/ssm/spring-junit</id>
+        <link href="https://heluo520.github.io/posts/ssm/spring-junit"/>
+        <updated>2024-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>spring其实已经帮我们提供了整合Junit4的依赖，我们只需要导入Junit4的依赖就行。</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.498Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://heluo520.github.io/posts/ssm/test</id>
@@ -29,7 +231,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.917Z</published>
+        <published>2024-08-07T11:01:08.498Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Git命令]]></title>
@@ -53,7 +255,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.917Z</published>
+        <published>2024-08-07T11:01:08.498Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[IDEA快捷键]]></title>
@@ -85,7 +287,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.917Z</published>
+        <published>2024-08-07T11:01:08.498Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Maven使用]]></title>
@@ -103,7 +305,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.917Z</published>
+        <published>2024-08-07T11:01:08.498Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[windows快捷键]]></title>
@@ -139,240 +341,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.917Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jwt的使用]]></title>
-        <id>https://heluo520.github.io/posts/springboot/jwt</id>
-        <link href="https://heluo520.github.io/posts/springboot/jwt"/>
-        <updated>2024-04-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>JWT（JSON Web Token）是一种开放标准（RFC 7519），它定义了一种紧凑且自包含的方式，用于在各方之间安全地传输信息作为 JSON 对象。JWT 可以通过数字签名进行验证，这样就可以确保在传输过程中的数据不被篡改。</p>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.913Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[springboot源码学习]]></title>
-        <id>https://heluo520.github.io/posts/springboot/source-code</id>
-        <link href="https://heluo520.github.io/posts/springboot/source-code"/>
-        <updated>2024-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>笔记</p>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.913Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[springboot+mybatis中resultMap与驼峰命名]]></title>
-        <id>https://heluo520.github.io/posts/springboot/springboot-mybatis</id>
-        <link href="https://heluo520.github.io/posts/springboot/springboot-mybatis"/>
-        <updated>2024-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>当数据库中表的字段名与我们java实体中的属性名不同时我们就需要手动指定映射关系，或进行一些配置。</p>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.913Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpringBoot中通过第三方Swagger-UI来使用Swagger]]></title>
-        <id>https://heluo520.github.io/posts/springboot/swagger</id>
-        <link href="https://heluo520.github.io/posts/springboot/swagger"/>
-        <updated>2024-04-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>前言：在前后端分离开发的过程中，前端和后端需要进行api对接进行交互，就需要一个api规范文档，方便前后端的交互，但api文档不能根据代码的变化发生实时动态的改变，这样后端修改了接口，前端不能及时获取最新的接口，导致调用出错，需要手动维护api文档，加大了开发的工作量和困难，而swagger的出现就是为了解决这一系列的问题。</p>
-</blockquote>
-<p>简单来说的话就是一个基于openAPI构建的可用于动态生成后端接口文档的工具集</p>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.913Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpringBoot中的Interceptor(拦截器)与Filter(过滤器)]]></title>
-        <id>https://heluo520.github.io/posts/springboot/拦截器与过滤器</id>
-        <link href="https://heluo520.github.io/posts/springboot/拦截器与过滤器"/>
-        <updated>2024-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>二者对比(其实作用都差不多)</h2>
-<table>
-<thead>
-<tr>
-<th style="text-align:center"></th>
-<th style="text-align:center"><strong>Interceptor</strong></th>
-<th style="text-align:center"><strong>Filter</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center"><strong>技术范畴</strong></td>
-<td style="text-align:center">Sprin</td>
-<td style="text-align:center"></td>
-</tr>
-</tbody>
-</table>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.913Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EnableAsync与Async注解实现共享线程池]]></title>
-        <id>https://heluo520.github.io/posts/springboot/线程池</id>
-        <link href="https://heluo520.github.io/posts/springboot/线程池"/>
-        <updated>2024-06-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>SpringBoot中使用@EnableAsync与@Async实现共享线程池</h2>
-<ul>
-<li>首先需要定义一个配置类对<code>ThreadPoolTaskExecutor</code>对象进行配置，并交给容器</li>
-</ul>
-<blockquote>
-<p>`</p>
-</blockquote>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.913Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RocketMQ]]></title>
-        <id>https://heluo520.github.io/posts/springcloud/rocketmq</id>
-        <link href="https://heluo520.github.io/posts/springcloud/rocketmq"/>
-        <updated>2024-05-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>简介</h2>
-<p>RocketMQ为Alibaba开发的消息队列。优点：实现应用解耦、异步提速(响应速度)、削峰填谷(囤积消息慢慢处理)。缺点：可用性降低(如何保证中间件的可靠)、复杂性提高(耦合了中间件</p>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.913Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpringCloud Alibab篇]]></title>
-        <id>https://heluo520.github.io/posts/springcloud/springcloud-alibab</id>
-        <link href="https://heluo520.github.io/posts/springcloud/springcloud-alibab"/>
-        <updated>2024-05-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>CAP概念</h2>
-<p>C: 一致性 、A：可用性 、P：分区容错性</p>
-<h2>Nacos与启动</h2>
-<p>Nacos：Eureka + Config + Bus 包含了注册中心、配置中心、动态刷新配置的功能，即是一个</p>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.913Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpringCloud Eureka篇]]></title>
-        <id>https://heluo520.github.io/posts/springcloud/springcloud-eureka</id>
-        <link href="https://heluo520.github.io/posts/springcloud/springcloud-eureka"/>
-        <updated>2024-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>架构</h2>
-<ul>
-<li>单体架构</li>
-<li>垂直架构</li>
-<li>分布式架构</li>
-<li>SOA架构</li>
-<li>微服务架构</li>
-</ul>
-<h2>注册中心</h2>
-<p>用于服务注册与服务发现。</p>
-<ul>
-<li>实现：
-<ol>
-<li>Eureka (Netflix)<br>
-2</li>
-</ol>
-</li>
-</ul>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.913Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring中的AOP]]></title>
-        <id>https://heluo520.github.io/posts/ssm/index</id>
-        <link href="https://heluo520.github.io/posts/ssm/index"/>
-        <updated>2024-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>使用前提：Spring的AOP是基于JDK动态代理和CGlib代理实现的，所以目标对象必须要有父类或实现了接口才能被代理。</p>
-</blockquote>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.913Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在Spring项目中使用Junit4?]]></title>
-        <id>https://heluo520.github.io/posts/ssm/spring-junit</id>
-        <link href="https://heluo520.github.io/posts/ssm/spring-junit"/>
-        <updated>2024-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>spring其实已经帮我们提供了整合Junit4的依赖，我们只需要导入Junit4的依赖就行。</p>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.913Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上传图片至七牛云]]></title>
-        <id>https://heluo520.github.io/posts/notes/上传图片至七牛云</id>
-        <link href="https://heluo520.github.io/posts/notes/上传图片至七牛云"/>
-        <updated>2024-07-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>使用的方式为服务端上传</p>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.905Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多线程设计模式之两阶段终止模式]]></title>
-        <id>https://heluo520.github.io/posts/notes/多线程设计模式</id>
-        <link href="https://heluo520.github.io/posts/notes/多线程设计模式"/>
-        <updated>2024-07-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>两阶段终止含义</h2>
-<blockquote>
-<p>即分为两个阶段来终止线程，让线程自然的结束<code>run</code>方法。第一个阶段是线程<code>t1</code>向需要终止的<code>t2</code>线程发送终止请求，第二个阶段是<code>t2</code>线程响应中断请求，即自然的结束`</p>
-</blockquote>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.905Z</published>
+        <published>2024-08-07T11:01:08.498Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[通过自定义注解向Spring容器中注入个性化Bean]]></title>
@@ -386,7 +355,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.905Z</published>
+        <published>2024-08-07T11:01:08.494Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpringBoot中的注解]]></title>
@@ -410,7 +379,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.905Z</published>
+        <published>2024-08-07T11:01:08.494Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpringBoot当中使用自定义注解结合AOP做权限校验]]></title>
@@ -426,7 +395,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.905Z</published>
+        <published>2024-08-07T11:01:08.494Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Spring中Bean的生命周期及其扩展点]]></title>
@@ -444,7 +413,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.905Z</published>
+        <published>2024-08-07T11:01:08.494Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[web项目中的文件上传与下载]]></title>
@@ -463,7 +432,38 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.905Z</published>
+        <published>2024-08-07T11:01:08.494Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上传图片至七牛云]]></title>
+        <id>https://heluo520.github.io/posts/notes/上传图片至七牛云</id>
+        <link href="https://heluo520.github.io/posts/notes/上传图片至七牛云"/>
+        <updated>2024-07-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>使用的方式为服务端上传</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.490Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多线程设计模式之两阶段终止模式]]></title>
+        <id>https://heluo520.github.io/posts/notes/多线程设计模式</id>
+        <link href="https://heluo520.github.io/posts/notes/多线程设计模式"/>
+        <updated>2024-07-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>两阶段终止含义</h2>
+<blockquote>
+<p>即分为两个阶段来终止线程，让线程自然的结束<code>run</code>方法。第一个阶段是线程<code>t1</code>向需要终止的<code>t2</code>线程发送终止请求，第二个阶段是<code>t2</code>线程响应中断请求，即自然的结束`</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.490Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[linux指令学习]]></title>
@@ -493,7 +493,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.897Z</published>
+        <published>2024-08-07T11:01:08.486Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[在linux下安装配置wordpress]]></title>
@@ -510,13 +510,13 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.897Z</published>
+        <published>2024-08-07T11:01:08.486Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netty简单使用]]></title>
         <id>https://heluo520.github.io/posts/notes/Netty简单使用</id>
         <link href="https://heluo520.github.io/posts/notes/Netty简单使用"/>
-        <updated>2024-08-07T05:51:25.897Z</updated>
+        <updated>2024-07-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>使用Netty框架构建一个简单的服务端与客户端程序进行通信</p>
 ]]></content>
         <author>
@@ -524,13 +524,13 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.897Z</published>
+        <published>2024-08-07T11:01:08.486Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Java与Spring中的SPI机制]]></title>
         <id>https://heluo520.github.io/posts/notes/SPI</id>
         <link href="https://heluo520.github.io/posts/notes/SPI"/>
-        <updated>2024-08-07T05:51:25.897Z</updated>
+        <updated>2024-08-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<h2>Java当中提供的SPI</h2>
 <blockquote>
 <p>在目录<code>resource/META-INF/services</code>下以接口全限定名作为文件名，文件内容为其实现类，一个文件对应一个接口。</p>
@@ -542,7 +542,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.897Z</published>
+        <published>2024-08-07T11:01:08.486Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[常用算法]]></title>
@@ -567,7 +567,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.897Z</published>
+        <published>2024-08-07T11:01:08.486Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[C++]]></title>
@@ -591,7 +591,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.897Z</published>
+        <published>2024-08-07T11:01:08.486Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[设计模式]]></title>
@@ -612,7 +612,21 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.897Z</published>
+        <published>2024-08-07T11:01:08.486Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[springboot整合mybatis与mybatis-plus]]></title>
+        <id>https://heluo520.github.io/posts/frame/mybatis-plus</id>
+        <link href="https://heluo520.github.io/posts/frame/mybatis-plus"/>
+        <updated>2024-04-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>mybatis-plus是在mybatis的基础上只做增强而不做改变。所以我们可以同时使用两者，即有plus的方便性又有mybatis的灵活性。</p>
+]]></content>
+        <author>
+            <name>贤狼赫萝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T11:01:08.474Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL学习笔记]]></title>
@@ -630,7 +644,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.885Z</published>
+        <published>2024-08-07T11:01:08.470Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Redis学习笔记]]></title>
@@ -645,7 +659,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.885Z</published>
+        <published>2024-08-07T11:01:08.470Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[springboot在一个子模块B中引用另一个子模块C后编译B出错]]></title>
@@ -659,7 +673,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.885Z</published>
+        <published>2024-08-07T11:01:08.470Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用@Slf4j打印对象出现java.lang.StackOverflowError]]></title>
@@ -673,7 +687,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.885Z</published>
+        <published>2024-08-07T11:01:08.470Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[DNS]]></title>
@@ -690,7 +704,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.885Z</published>
+        <published>2024-08-07T11:01:08.470Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Docker学习记录]]></title>
@@ -704,7 +718,7 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.885Z</published>
+        <published>2024-08-07T11:01:08.470Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Docker容器间的相互访问]]></title>
@@ -718,20 +732,6 @@ spring:
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-08-07T05:51:25.885Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[springboot整合mybatis与mybatis-plus]]></title>
-        <id>https://heluo520.github.io/posts/frame/mybatis-plus</id>
-        <link href="https://heluo520.github.io/posts/frame/mybatis-plus"/>
-        <updated>2024-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>mybatis-plus是在mybatis的基础上只做增强而不做改变。所以我们可以同时使用两者，即有plus的方便性又有mybatis的灵活性。</p>
-]]></content>
-        <author>
-            <name>贤狼赫萝</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2024-08-07T05:51:25.885Z</published>
+        <published>2024-08-07T11:01:08.470Z</published>
     </entry>
 </feed>
